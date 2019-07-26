@@ -1,0 +1,38 @@
+@media only screen and (max-width: 992px) {
+	.top{
+		height: 200px;
+	}
+}
+@media only screen and (max-width: 600px) {
+	.top{
+		height: 200px;
+	}
+	.mid{
+		margin-top: 150px;
+		background: #c9c7c7; 
+	}
+	.knopka{
+		display: block
+	}
+	.info{
+		margin-top: 40px;
+	}
+
+	.intop{
+		font-size: 20px;
+	}
+	.none{
+		display: block;}
+	.block{
+		display: none;
+
+	}
+}
+@media only screen and (min-width: 601px) {
+	.none1{
+		display: none;}
+	.block1{
+		display: block;
+
+	}
+	}
