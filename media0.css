@@ -1,5 +1,5 @@
 
-@media only screen and (max-width: 767px) {
+@media only screen and (max-width: 479px) {
 	.top{
 		height: 200px;
 	}
@@ -39,7 +39,7 @@ li {float:left;
 
 }
 }
-@media only screen and (min-width: 768px) {
+@media only screen and (min-width: 480px) {
 	.none1{
 		display: none;}
 	.block1{
