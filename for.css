@@ -37,3 +37,13 @@ h5{
  color:#cbd1cc;
  text-shadow: 1px 0px 2px black, 0 0 0em black;
 }
+h2{
+ color:#cbd1cc;	
+ text-shadow: 1px 0px 2px black, 0 0 0em black;
+}
+.nav1{
+	display: none;
+}
+.nav2{
+	display: none;
+}
